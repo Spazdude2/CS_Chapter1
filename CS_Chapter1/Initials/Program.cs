@@ -10,6 +10,7 @@ namespace Initials
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("    A       SSSS\n   A A     S\n  AAAAA     SSSS\n A     A        S\nA       A   SSSS");
         }
     }
 }
